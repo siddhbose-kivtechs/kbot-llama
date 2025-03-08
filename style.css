@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #673ab7;
+  background-color: #FF00CC;
 }
 
 body,
@@ -22,7 +22,7 @@ select {
     word-wrap: break-word;
     max-width: fit-content;
     padding: 15px 17px;
-    background: rgb(255, 255, 255);
+    background: rgb(255, 255, 155);
     color: rgb(0, 0, 0);
     margin-top: 10px;
 }
@@ -52,7 +52,7 @@ select {
 }
 
 .user-response {
-    background: rgb(0, 102, 255);
+    background: rgb(70, 102, 255);
     color: rgb(255, 255, 255);
     font-size: 17px;
     line-height: 24px;
